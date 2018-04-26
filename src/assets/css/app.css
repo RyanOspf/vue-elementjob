@@ -1,0 +1,10 @@
+@import url("reset.css");
+@import './header.css';
+@import './listPage.css';
+@import './jobtitle.css';
+@import './jobdes.css';
+
+html,body{
+	height:100%;
+	background-color: #ddd;
+}
